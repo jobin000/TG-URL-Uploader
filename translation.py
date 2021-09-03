@@ -3,6 +3,8 @@ class Translation(object):
 
 <b>My name night upload bot<\b>
 
+Send - url | New Name.mkv
+
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
 /help 👈
@@ -46,13 +48,13 @@ Expires on: 31/5/2021"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="Bot create channel
-https://t.me/Bot_create_channel">Diploy</a>
+<b>👉 join bot create channel & group :</b> 👉 <a href="join
+https://t.me/bot_create_group/">Diploy</a>
 
 --------
 Send /me to know current plan details
 
-Support @Bot_create_channel"""
+Support @bot_create_group"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
     REPLY_TO_DOC_FOR_SCSS = "Reply to a Telegram media to get screenshots"
